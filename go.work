@@ -1,0 +1,16 @@
+go 1.20
+
+use (
+	./00server
+	./01variables
+	./02constants
+	./03arrays
+	./04mapsAndStructs
+	./05controlflow
+	./06loops
+	./07deferPanicRecover
+	./08pointers
+	./09functions
+	./11goroutines
+	./12channels
+)
