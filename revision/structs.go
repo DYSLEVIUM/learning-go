@@ -4,6 +4,8 @@
 package main
 import "fmt"
 
+// small letter starting means that it is private to the package, big letter starting means it is public with the package
+
 type owner struct {
     name string
 }
